@@ -1,0 +1,8 @@
+ls -> lista arquivos
+cd -> move entre diretórios
+pwd -> mostra o diretório de trabalho
+rm -rf -> tira o .git da pasta
+ls - a -> mostra todos os arquivos da pasta
+git init . -> faz que a pasta tenha versionamento
+git status -> mostra como esta meu diretório
+git add -> versiono o diretório para que possa ser comitado
