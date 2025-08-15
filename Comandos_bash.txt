@@ -1,9 +1,8 @@
 ls -> lista arquivos
 cd -> move entre diretórios
 pwd -> mostra o diretório de trabalho
-rm -rf -> tira o .git da pasta
+rm  -> remove arquivo ou diretório
+rm -rf -> remove de forma recursiva e foraçada dos diretórios
 ls - a -> mostra todos os arquivos da pasta
-git init . -> faz que a pasta tenha versionamento
-git status -> mostra como esta meu diretório
-git add -> versiono o diretório para que possa ser comitado
 cat - > exibe o conteúdo do arquivo
+
